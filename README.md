@@ -1,6 +1,6 @@
-# MeanPractice
+# Post - MEAN
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.9.
+Use MEAN to develop a post webApp
 
 ## Development server
 
