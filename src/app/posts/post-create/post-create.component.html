@@ -1,1 +1,5 @@
 <h2>The Post Create Component</h2>
+
+<textarea rows="6" [(ngModel)]="enteredValue" placeholder='enter a message'></textarea>
+<button (click)="onAddPost()">Save Post</button>
+<p>{{newPost}}</p>
